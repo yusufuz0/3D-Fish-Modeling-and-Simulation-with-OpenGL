@@ -1,9 +1,11 @@
 
-![Ekran görüntüsü 2025-01-20 110305](https://github.com/user-attachments/assets/aa5f74b0-38a9-4930-b1ac-8196618f5504){ width=100px }
+
+<img src="[görsel-linki.png](https://github.com/user-attachments/assets/aa5f74b0-38a9-4930-b1ac-8196618f5504)" width="300">
 
 
 
-![Ekran görüntüsü 2025-01-20 110439](https://github.com/user-attachments/assets/c30a9e54-c2e8-4be4-bb97-554fbf7750e2){ width=100px }
+
+![Ekran görüntüsü 2025-01-20 110439](https://github.com/user-attachments/assets/c30a9e54-c2e8-4be4-bb97-554fbf7750e2)
 
 
 
