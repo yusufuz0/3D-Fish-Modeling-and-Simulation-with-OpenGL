@@ -1,14 +1,3 @@
-
-
-<img src="[görsel-linki.png](https://github.com/user-attachments/assets/aa5f74b0-38a9-4930-b1ac-8196618f5504)" width="300">
-
-
-
-
-![Ekran görüntüsü 2025-01-20 110439](https://github.com/user-attachments/assets/c30a9e54-c2e8-4be4-bb97-554fbf7750e2)
-
-
-
 Overview
 
 This project implements a 3D fish model using the C programming language and OpenGL. It includes dynamic animations and interactive user control, allowing the user to manipulate the position and rotation of the fish with keyboard inputs. The fish features realistic movements of its tail, fins, and eyes. Additionally, OpenGL lighting and material properties are used to enhance visual depth and realism. The fish moves in a virtual underwater environment with stones and a background that brings the scene to life.
@@ -30,3 +19,8 @@ Esc: Exit the program.
 
 
 "Add OpenGL and GLUT libraries to run."
+
+
+
+
+![Ekran görüntüsü 2025-01-20 110439](https://github.com/user-attachments/assets/6068545c-4983-4ae6-b7cc-cd30caddf23b)
